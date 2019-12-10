@@ -1,0 +1,4 @@
+echo Bonjour
+python3.5 2048.py
+
+
